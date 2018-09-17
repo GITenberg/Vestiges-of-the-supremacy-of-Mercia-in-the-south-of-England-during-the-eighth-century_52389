@@ -1,0 +1,30 @@
+_repo: Vestiges-of-the-supremacy-of-Mercia-in-the-south-of-England-during-the-eighth-century_52389
+_version: 0.0.1
+alternative_title: Vestiges of the supremacy of Mercia in the south of England during
+  the 8th century
+creator:
+  author:
+    agent_name: Kerslake, T. (Thomas)
+    alias: Kerslake, Thomas
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '46836'
+    url: http://www.gutenberg.org/2009/agents/46836
+description: ''
+gutenberg_issued: '2016-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mercia (Kingdom) -- History'
+- !lcsh 'Great Britain -- Antiquities'
+- !lcc 'GN'
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066'
+- GITenberg
+title: Vestiges of the supremacy of Mercia in the south of England during the eighth
+  century
+url: http://www.gutenberg.org/ebooks/52389
